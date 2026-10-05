@@ -1,0 +1,11 @@
+# Bundled third-party reference project - not mine to republish
+RashmiRatnayake Image-Processing-Project-Resistor-Scanner/
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.mp4
+.DS_Store
+Thumbs.db
+desktop.ini
